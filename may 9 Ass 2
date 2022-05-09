@@ -1,0 +1,3 @@
+d={1:['sai',1,9876543021,'mccs'],2:['jnanesh',2,5546373882,'mccs'],3:['gopi',3,5646546604,'mstat']}
+d.clear()
+print(d)
